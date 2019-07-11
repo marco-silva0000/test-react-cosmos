@@ -1,0 +1,6 @@
+{
+    "webpack": {
+        "configPath": "./webpack.cosmos.config.js"
+    }
+}
+
